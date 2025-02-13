@@ -31,17 +31,7 @@ Ion Icons: For scalable vector icons.
 
 Google Fonts: For typography.
 
-Folder Structure
-Copy
-ellys-ecommerce/
-├── assets/
-│   ├── css/
-│   │   └── style-prefix.css       # Custom CSS styles
-│   ├── images/                    # All images used in the project
-│   ├── js/
-│   │   └── script.js              # Custom JavaScript for interactivity
-├── index.html                     # Main HTML file
-└── README.md                      # Project documentation
+
 How to Run the Project
 Clone the Repository:
 
